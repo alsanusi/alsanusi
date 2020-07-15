@@ -1,11 +1,9 @@
 ![als](https://res.cloudinary.com/metrotech-digital-asia/image/upload/v1594815065/personal/8276125_hdekf9.jpg)
 
 ##  📫  How to reach me:
-- :e-mail:  : malkautsars@gmail.com
-- :computer: :  https://muhalkautsarsanusi.com/
-
-## :iphone: Social:
-- [Linkedin](https://www.linkedin.com/in/muhammad-alkautsar-sanusi-6013ba123/)
+- :e-mail:  : [Email](malkautsars@gmail.com)
+- :computer: :  [MyWebsite](https://muhalkautsarsanusi.com/)
+- :mag: : [Linkedin](https://www.linkedin.com/in/muhammad-alkautsar-sanusi-6013ba123/)
 
 <!--
 **alsanusi/alsanusi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
