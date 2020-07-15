@@ -1,4 +1,4 @@
-![als](https://res.cloudinary.com/metrotech-digital-asia/image/upload/v1594813991/personal/8276125_copy_xworww.jpg)
+![als](https://res.cloudinary.com/metrotech-digital-asia/image/upload/v1594814282/personal/8276125_gjdx7e.jpg)
 
 <!--
 **alsanusi/alsanusi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
