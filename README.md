@@ -1,4 +1,6 @@
-![als](https://res.cloudinary.com/metrotech-digital-asia/image/upload/v1594815065/personal/8276125_hdekf9.jpg)
+<!-- ![als](https://res.cloudinary.com/metrotech-digital-asia/image/upload/v1594815065/personal/8276125_hdekf9.jpg) -->
+
+![als](https://res.cloudinary.com/metrotech-digital-asia/image/upload/v1594812046/personal/Als_jeaspd.jpg)
 
 ##  📫  How to reach me:
 - :e-mail:  : [Email](malkautsars@gmail.com)
