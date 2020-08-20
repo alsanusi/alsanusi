@@ -11,12 +11,14 @@
 
 ```javascript
 const sesar = {
-  code: [Javascript, HTML, CSS, C#, Java],
-  tools: [React, Redux, Node, Styled-Components, Express, Angular, Vue],
+  code: ["Javascript", "Java", "C#", "HTML", "CSS", "PHP"],
+  frontEnd: ["React", "Redux", "Angular", "Vue"],
+  backEnd: ["Express", "Lumen", "ASP.Net"],
+  design: ["Sketch", "Figma", "Adobe photoshop", "Adobe XD", "inVisionApp"],
   architecture: ["design system pattern"],
   techCommunities: {
-                       coorganizer: "MDS - Makassar Developer Society",
-                       speaker: "MDS - Makassar Developer Society"
+                       coorganizer: "MakassarDeveloperSociety",
+                       speaker: "MakassarDeveloperSociety"
                    }
 }
 ```
