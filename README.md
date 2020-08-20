@@ -4,7 +4,7 @@
 
 [![Twitter: alkautstark_](https://img.shields.io/twitter/follow/alkautstark_?style=social)](https://twitter.com/alkautstark_)
 [![Linkedin: alkautsar](https://img.shields.io/badge/-alkautsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-alkautsar-sanusi-6013ba123/)](https://www.linkedin.com/in/muhammad-alkautsar-sanusi-6013ba123/)
-[![GitHub alsanusi](https://img.shields.io/github/followers/alkautsar?label=follow&style=social)](https://github.com/alsanusi)
+[![GitHub: alsanusi](https://img.shields.io/github/followers/alsanusi?label=follow&style=social)](https://github.com/alsanusi)
 
 
 ### About Me
