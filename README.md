@@ -15,9 +15,9 @@ const sesar = {
   tools: [React, Redux, Node, Styled-Components, Express, Angular, Vue],
   architecture: ["design system pattern"],
   techCommunities: {
-                       coorganizer: "Makassar Developer Society",
-                       speaker: "Makassar Developer Society"
-                   },
+                       coorganizer: "MDS - Makassar Developer Society",
+                       speaker: "MDS - Makassar Developer Society"
+                   }
 }
 ```
 
