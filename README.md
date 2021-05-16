@@ -11,7 +11,7 @@
 
 ```javascript
 const sesar = {
-  code: ["Javascript", "Java", "C#", "HTML", "CSS", "PHP"],
+  code: ["Javascript", "Java", "C#", "PHP"],
   frontEnd: ["React", "Redux", "Angular", "Vue"],
   backEnd: ["Express", "Lumen", "ASP.Net"],
   design: ["Sketch", "Figma", "Adobe photoshop", "Adobe XD", "inVisionApp"],
