@@ -1,6 +1,7 @@
 <h2> Hi, I'm Muhammad Alkautsar Sanusi! </h2>
-<p><em>Front-end Developer</br>Open for Hiring!</a>
-</em></p>
+<p><em>Front-end Developer</em></p>
+
+<p><em>Currently building new world order with <a target="_blank" rel="noopener noreferrer" href="https://metrotechdigital.asia/">Metrotech Digital Asia</a></em></p>
 
 [![Twitter: alkautstark_](https://img.shields.io/twitter/follow/alkautstark_?style=social)](https://twitter.com/alkautstark_)
 [![Linkedin: alkautsar](https://img.shields.io/badge/-alkautsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-alkautsar-sanusi-6013ba123/)](https://www.linkedin.com/in/muhammad-alkautsar-sanusi-6013ba123/)
