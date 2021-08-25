@@ -1,6 +1,4 @@
 <h2> Hi, I'm Muhammad Alkautsar Sanusi! </h2>
-<p><em>Front-end Developer</em></p>
-
 <p><em>Currently building new world order with <a target="_blank" rel="noopener noreferrer" href="https://metrotechdigital.asia/">Metrotech Digital Asia</a></em></p>
 
 [![Twitter: alkautstark_](https://img.shields.io/twitter/follow/alkautstark_?style=social)](https://twitter.com/alkautstark_)
@@ -13,14 +11,9 @@
 ```javascript
 const sesar = {
   code: ["Javascript", "Java", "C#", "PHP"],
-  frontEnd: ["React", "Redux", "Angular", "Vue"],
+  frontEnd: ["React", "Next", "Angular", "Vue"],
   backEnd: ["Express", "Lumen", "ASP.Net"],
-  design: ["Sketch", "Figma", "Adobe photoshop", "Adobe XD", "inVisionApp"],
-  architecture: ["design system pattern"],
-  techCommunities: {
-                       coorganizer: "MakassarDeveloperSociety",
-                       speaker: "MakassarDeveloperSociety"
-                   }
+  design: ["Sketch", "Figma", "Adobe Photoshop", "Adobe XD", "inVisionApp"]
 }
 ```
 
