@@ -5,6 +5,12 @@
 [![Linkedin: alkautsar](https://img.shields.io/badge/-alkautsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-alkautsar-sanusi-6013ba123/)](https://www.linkedin.com/in/muhammad-alkautsar-sanusi-6013ba123/)
 [![GitHub: alsanusi](https://img.shields.io/github/followers/alsanusi?label=follow&style=social)](https://github.com/alsanusi)
 
+### About
+
+- 🏢 I'm currently working at **Metrotech Digital** & **Blocktogo**, based in Indonesia.
+- ⚙️ I use daily: `.js`
+- 📫 Reach me: [alkautsars@metrotechdigital.asia](mailto:alkautsars@metrotechdigital.asia)
+- 💬 Ping me about **development**, **design**, **branding**
 
 ### Technical Stack
 
