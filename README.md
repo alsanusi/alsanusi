@@ -16,10 +16,18 @@
 
 ```javascript
 const alkautsarSanusi = {
-  frontEnd: ["React", "Next", "Angular", "Laravel"],
-  backEnd: ["Express", "Laravel", "Lumen", "ASP.Net",],
+  code: ["Javascript", "Java", "PHP"],
+  technologies: {
+    frontEnd: {
+      ["React", "Next", "Angular", "Laravel"]
+    },
+    backEnd: {
+      ["Express", "Laravel", "Lumen", "ASP.Net",]
+    }
+  },
   design: ["Sketch", "Figma", "Adobe Photoshop", "Adobe XD"],
-  deployment: ["Digital Ocean", "Shared Hosting"]
+  devOps: ["Digital Ocean", "Shared Hosting"],
+  architecture: ["Progressive Web Applications", "Single Page Applications"],
 }
 ```
 
