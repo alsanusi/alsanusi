@@ -8,7 +8,7 @@
 ### About
 
 - 🏢 I'm currently working at **Metrotech Digital** & **Blocktogo**, based in Indonesia.
-- ⚙️ I use daily: `.js`
+- ⚙️ I use daily: `.js` & focus more on Front-end Side
 - 📫 Reach me: [alkautsars@metrotechdigital.asia](mailto:alkautsars@metrotechdigital.asia)
 - 💬 Ping me about **development**, **design**, **branding**
 
@@ -16,7 +16,7 @@
 
 ```javascript
 const alkautsarSanusi = {
-  frontEnd: ["React", "Next", "Angular", "Vue", "Laravel"],
+  frontEnd: ["React", "Next", "Angular", "Laravel"],
   backEnd: ["Express", "Laravel", "Lumen", "ASP.Net",],
   design: ["Sketch", "Figma", "Adobe Photoshop", "Adobe XD"],
   deployment: ["Digital Ocean", "Shared Hosting"]
