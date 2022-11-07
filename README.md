@@ -11,7 +11,7 @@
 ```javascript
 const sesar = {
   job: ["Founder - Metrotech Digital Asia", "Tech Lead - Blocktogo"]
-  code: [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A), "Java", "C#", "PHP"],
+  code: ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
   frontEnd: ["React", "Next", "Angular", "Vue", "Laravel"],
   backEnd: ["Express", "Laravel", "Lumen", "ASP.Net",],
   design: ["Sketch", "Figma", "Adobe Photoshop", "Adobe XD"]
