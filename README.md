@@ -16,13 +16,13 @@
 
 ```javascript
 const alkautsarSanusi = {
-  code: ["Javascript", "Java", "PHP"],
+  code: ["Javascript", "Java", "C#", "PHP"],
   technologies: {
     frontEnd: {
       ["React", "Next", "Angular", "Laravel"]
     },
     backEnd: {
-      ["Express", "Laravel", "Lumen", "ASP.Net",]
+      ["Express", "Laravel", "Lumen", "ASP.Net"]
     }
   },
   design: ["Sketch", "Figma", "Adobe Photoshop", "Adobe XD"],
