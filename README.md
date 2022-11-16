@@ -10,7 +10,7 @@
 - 💼 I'm currently working at **Metrotech Digital** & **Blocktogo**, based in Indonesia.
 - ⚙️ I use daily: `.js` & focus more on Front-end Side
 - 📫 Reach me: [alkautsars@metrotechdigital.asia](mailto:alkautsars@metrotechdigital.asia)
-- 💬 Ping me about **development**, **design**, **branding**
+- 💬 Ping me about **business**, **development**, **design** & **branding**
 
 ## Technical Stack
 
