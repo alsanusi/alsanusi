@@ -1,4 +1,4 @@
-<h3><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Alkautsar Sanusi</h3>
+<h3><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I'm Alkautsar Sanusi</h3>
 <p><em>Currently building new world order with <a target="_blank" rel="noopener noreferrer" href="https://metrotechdigital.asia/">Metrotech Digital Asia</a> & kiddos on web3.0</em></p>
 
 [![Twitter: alkautstark_](https://img.shields.io/twitter/follow/alkautstark_?style=social)](https://twitter.com/alkautstark_)
@@ -7,7 +7,7 @@
 
 ## About
 
-- 💼 I'm currently working at **Metrotech Digital** & **Blocktogo**, based in Indonesia.
+- 💼 I'm currently working at **Metrotech Digital**, based in Jakarta, Indonesia.
 - ⚙️ I use daily: `.js` & focus more on Front-end Side
 - 📫 Reach me: [alkautsars@metrotechdigital.asia](mailto:alkautsars@metrotechdigital.asia)
 - 💬 Ping me about **business**, **development**, **design** & **branding**
