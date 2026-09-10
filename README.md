@@ -16,18 +16,18 @@
 
 ```javascript
 const alkautsarSanusi = {
-  code: ["Javascript", "Java", "C#", "PHP"],
-  technologies: {
+  code: {
     frontEnd: {
-      ["React", "Next", "Angular", "Laravel"]
+      ["Next.js", "Vue.js", "Leaflet"]
     },
     backEnd: {
-      ["Express", "Laravel", "Lumen", "ASP.Net"]
+      ["Express.js", "Node.js", "Laravel"]
     }
   },
-  design: ["Sketch", "Figma", "Adobe Photoshop", "Adobe XD"],
-  devOps: ["Digital Ocean", "Shared Hosting"],
-  architecture: ["Progressive Web Applications", "Single Page Applications"],
+  database: ["MySQL", "PostgreSQL"],
+  architecture: ["Monolithic", "MicroService", "API Gateway"],
+  devOps: ["CI/CD", "Docker"],
+  design: ["Figma", "Adobe Photoshop"],
 }
 ```
 
