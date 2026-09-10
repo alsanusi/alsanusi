@@ -1,4 +1,5 @@
-<h3><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>Hi !</h3>
+## Hi, <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> !
+<p>7+ years of experience delivering scalable IT solutions for private enterprises, state-owned enterprises (SOEs), and government institutions. Specializes in system architecture, cloud-native applications, API ecosystems, and digital transformation initiatives.</p>
 <p><em>Currently building new world order with <a target="_blank" rel="noopener noreferrer" href="https://metrotechdigital.asia/">Metrotech Digital Asia</a> & kiddos on web3.0</em></p>
 
 [![Twitter: alkautstark_](https://img.shields.io/twitter/follow/alkautstark_?style=social)](https://twitter.com/alkautstark_)
